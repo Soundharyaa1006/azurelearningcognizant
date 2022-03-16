@@ -1,0 +1,9 @@
+{
+	"name": "adf02factory",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9cf6335f-8b24-41bb-9d93-0a40ca73405b",
+		"tenantId": "d5e7df42-4949-4800-9f28-eec7c8881dbf"
+	}
+}
